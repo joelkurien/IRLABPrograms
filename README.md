@@ -5,4 +5,4 @@ Current implementations pushed:
 * Experiment 2
 * Experiment 4
 * Experiment 6
-* Experimetn 10
+* Experiment 10
